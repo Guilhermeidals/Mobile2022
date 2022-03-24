@@ -16,10 +16,10 @@
             android:name=".ui.MainPage"
             android:exported="false" />
         <activity
-            android:name=".ui.SplashPage"
+            android:name=".ui.LoginPage"
             android:exported="false" />
         <activity
-            android:name=".ui.LoginPage"
+            android:name=".ui.SplashPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
